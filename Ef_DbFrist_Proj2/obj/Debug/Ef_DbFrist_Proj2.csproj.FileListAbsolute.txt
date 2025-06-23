@@ -1,0 +1,16 @@
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\Ef_DbFrist_Proj2.exe.config
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\Ef_DbFrist_Proj2.exe
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\Ef_DbFrist_Proj2.pdb
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\EntityFramework.dll
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\EntityFramework.xml
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.csproj.AssemblyReference.cache
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.Properties.Resources.resources
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.csproj.GenerateResource.cache
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.csproj.CoreCompileInputs.cache
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFri.655B6AD7.Up2Date
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.exe
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.pdb
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.FrmCategory.resources
+C:\Users\Seher CELIK\Desktop\20Project\Ef_DbFrist_Proj2\obj\Debug\Ef_DbFrist_Proj2.FrmProduct.resources
